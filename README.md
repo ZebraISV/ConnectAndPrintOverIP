@@ -1,7 +1,7 @@
-# LinkOS_SDK license
-## END USER LICENSE AGREEMENT ##
+# 
+##  LinkOS_SDK license  ##  [ENDUSER LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
 **(UNRESTRICTED SOFTWARE)** 
- [link](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+ 
 
 
 
